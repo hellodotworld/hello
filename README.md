@@ -1,2 +1,3 @@
-# hello
-The command line tool
+# hello.world
+
+Where softwre is born.
