@@ -1,3 +1,5 @@
 # hello.world
 
-Where softwre is born.
+`npm install hello.world`
+`hello`
+
