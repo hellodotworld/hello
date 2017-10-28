@@ -1,8 +1,8 @@
 # hello.world
 
-`npm install hello.world`
+`npm -g install hello.world`
 
-try it:
+then
 
 `hello`
 

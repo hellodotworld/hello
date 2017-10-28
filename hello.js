@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 
 
-console.log('Where softwrae is born')
+console.log('Modern software projects start here.')
